@@ -35,9 +35,10 @@
 // sayHello();
 //--------------------------------------------------------------------
 // Também podemos passar argumentos (parâmetros) para uma função
- function output(text) {
-    console.log(text);
-}
+
+// function output(text) {
+//     console.log(text);
+// }
 
 //nesse caso, apenas o primeiro parâmetro será
 //usado pela função; o segundo será ignorado
@@ -47,10 +48,10 @@
 //Essa função calcula a soma de dois números
 //especificados e devolve o resultado.
 
-function sum(num1, num2) {
-    return(num1 + num2);
-}
+// function sum(num1, num2) {
+//     return(num1 + num2);
+// }
 
 //chamando a execução da função
-var result = sum(2, 3);
-output(result);
+// var result = sum(2, 3);
+// output(result);
